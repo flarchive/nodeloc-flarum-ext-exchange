@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of nodeloc/flarum-ext-exchange.** Not for installation: use [Packagist](https://packagist.org/packages/nodeloc/flarum-ext-exchange) or the [upstream repository](https://github.com/nodeloc/flarum-ext-exchange).
 
-**0** versions archived · Latest: [`0.0.3`](https://github.com/flarchive/nodeloc-flarum-ext-exchange/tree/archive/v0.0.3) · License: `LPL-1.02` · Flarum: `^1.2.0`
+**2** versions archived · Latest: [`0.0.3`](https://github.com/flarchive/nodeloc-flarum-ext-exchange/tree/archive/v0.0.3) · License: `LPL-1.02` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.2` | 2024-05-17 | `^1.2.0` | [Browse](https://github.com/flarchive/nodeloc-flarum-ext-exchange/tree/archive/v0.0.2) |
+| `0.0.3` | 2024-12-20 | `^1.2.0` | [Browse](https://github.com/flarchive/nodeloc-flarum-ext-exchange/tree/archive/v0.0.3) |
 
 Catalog entry: [packages/nodeloc-flarum-ext-exchange.json](https://github.com/flarchive/archive-index/blob/main/packages/nodeloc-flarum-ext-exchange.json)
 
